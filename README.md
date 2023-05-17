@@ -1,4 +1,4 @@
-## Applied useState, useEffect hooks
+## Applied react useState, useEffect hooks
 
 
 ## Figma URL
